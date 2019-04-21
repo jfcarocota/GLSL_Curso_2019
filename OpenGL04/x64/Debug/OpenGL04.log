@@ -1,0 +1,4 @@
+﻿  OpenGL04.cpp
+c:\users\jfcarocota\source\repos\opengl01\opengl04\opengl04.cpp(180): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\jfcarocota\source\repos\opengl01\opengl04\opengl04.cpp(181): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  OpenGL04.vcxproj -> C:\Users\jfcarocota\source\repos\OpenGL01\x64\Debug\OpenGL04.exe

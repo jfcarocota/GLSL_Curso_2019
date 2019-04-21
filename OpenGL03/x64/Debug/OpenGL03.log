@@ -1,0 +1,4 @@
+﻿  OpenGL03.cpp
+c:\users\jfcarocota\source\repos\opengl01\opengl03\opengl03.cpp(11): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\jfcarocota\source\repos\opengl01\opengl03\opengl03.cpp(13): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  OpenGL03.vcxproj -> C:\Users\jfcarocota\source\repos\OpenGL01\x64\Debug\OpenGL03.exe

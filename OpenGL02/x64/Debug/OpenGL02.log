@@ -1,0 +1,3 @@
+﻿  OpenGL02.cpp
+c:\users\jfcarocota\source\repos\opengl01\opengl02\opengl02.cpp(10): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+  OpenGL02.vcxproj -> C:\Users\jfcarocota\source\repos\OpenGL01\x64\Debug\OpenGL02.exe
