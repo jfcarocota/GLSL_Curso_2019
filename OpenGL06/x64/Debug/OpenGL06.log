@@ -1,0 +1,3 @@
+﻿  OpenGL06.cpp
+c:\users\jfcarocota\documents\github\glsl_curso_2019\opengl06\opengl06.cpp(190): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  OpenGL06.vcxproj -> C:\Users\jfcarocota\Documents\GitHub\GLSL_Curso_2019\x64\Debug\OpenGL06.exe
